@@ -1,11 +1,11 @@
 CREATE TABLE category (
-	category_ids varchar PRIMARY KEY,
+	category_id varchar PRIMARY KEY,
 	category varchar
 
 );
 
 CREATE TABLE subcategory (
-	subcategory_ids varchar PRIMARY KEY,
+	subcategory_id varchar PRIMARY KEY,
 	subcategory varchar
 
 );
