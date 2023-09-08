@@ -5,8 +5,11 @@ This project aims to build an ETL pipeline using Python, Pandas, and Python dict
 Tools Used
 
 Python
+
 Pandas
+
 Numpy
+
 Postgres Database
 
 ![QuickDBD-export](https://github.com/WanessaEdmond/Crowdfunding_ETL/assets/134868789/9c505ff6-be58-4db4-9a14-9214868fc720)
