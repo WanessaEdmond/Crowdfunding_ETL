@@ -6,7 +6,7 @@ Tools Used
 
 Python / Pandas / Numpy / Postgres Database
 
-![QuickDBD-export](https://github.com/WanessaEdmond/Crowdfunding_ETL/assets/134868789/9c505ff6-be58-4db4-9a14-9214868fc720)
+![QuickDBD-export](https://github.com/WanessaEdmond/Crowdfunding_ETL/assets/134868789/f2b58857-f74c-429d-9bd9-700f1b74466e)
 
 Extract the crowdfunding.xlsx Data
 
